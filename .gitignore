@@ -1,0 +1,10 @@
+# Çıktı klasörünü görmezden gel
+outputs/
+
+# Derlenmiş dosyaları görmezden gel
+*.exe
+*.test
+cti-scraper
+
+# Sistem dosyaları
+.DS_Store
