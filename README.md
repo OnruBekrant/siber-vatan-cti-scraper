@@ -39,6 +39,7 @@ Aracı iki farklı modda kullanabilirsiniz:
 
 ### 1. Tekil Tarama (Single Scan)
 Belirli bir hedefi taramak için URL'yi parametre olarak verin:
+###
 
 ```bash
 go run main.go [https://www.hedefsite.com](https://www.hedefsite.com)
