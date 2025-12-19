@@ -65,6 +65,7 @@ siber-vatan-cti-scraper/
 ├── 📜 run_tests.sh      # Toplu tarama otomasyon scripti
 ├── 📄 go.mod            # Go modül dosyası
 └── 📝 README.md         # Proje dokümantasyonu
+```
 ⚠️ Yasal Uyarı
 
 Bu araç, Siber Vatan eğitim programı kapsamında eğitim ve savunma amaçlı geliştirilmiştir. Hedef sistemlerin izni olmadan saldırı veya yetkisiz veri toplama amacıyla kullanılması yasaktır. Geliştirici, aracın kötüye kullanımından doğacak sonuçlardan sorumlu tutulamaz.
