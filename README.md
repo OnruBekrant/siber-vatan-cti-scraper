@@ -39,10 +39,11 @@ Aracı iki farklı modda kullanabilirsiniz:
 
 ### 1. Tekil Tarama (Single Scan)
 Belirli bir hedefi taramak için URL'yi parametre olarak verin:
-###
+
 
 ```bash
 go run main.go [https://www.hedefsite.com](https://www.hedefsite.com)
+```
 
 2. **Toplu Tarama (Batch Scan / Otomasyon):**
     Birden fazla hedefi (liste halinde) otomatik taramak için hazırlanan scripti kullanın:
